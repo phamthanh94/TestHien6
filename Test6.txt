@@ -1,0 +1,10 @@
+
+  sudo svn cleanup .
+  sudo svn add --force .
+Test thu git nhe :)
+
+  sudo svn add --force .
+
+
+
+Sua ti :)
